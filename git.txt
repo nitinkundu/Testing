@@ -3,3 +3,6 @@ git commit
 git config
 git status
 git push
+
+git merge
+git log
