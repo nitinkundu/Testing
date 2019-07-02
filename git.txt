@@ -1,3 +1,5 @@
-git push
-git pull
-git config
+1.git init
+2.git commit
+3.git config
+4.git status
+5.git push
