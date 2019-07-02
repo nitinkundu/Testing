@@ -1,4 +1,4 @@
-git init
+git ini
 git commit
 git config
 git status
