@@ -1,3 +1,3 @@
-git add
-git push 
-git status
+git push
+git pull
+git config
